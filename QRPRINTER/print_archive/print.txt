@@ -1,0 +1,49 @@
+
+
+
+                              Windows Printer Test Page
+     You have correctly installed your Generic / Text Only on LAPTOP-HVEUVAFL.
+     PRINTER PROPERTIES
+     Submitted       9:37:43 PM
+     Time:
+     Date:           .11/.20/.2025
+     User Name:      LAPTOP-HVEUVAFL\yprod
+     Computer        LAPTOP-HVEUVAFL
+     Name:
+     Printer         Generic / Text Only
+     Name:
+     Printer         Generic / Text Only
+     Model:
+     Color           No
+     Support:
+     Port            FILE:
+     Name(s):
+     Data            RAW
+     Format:
+     Printer         Generic  Text Only
+     Share Name:
+     Printer         C:\Users\yprod\OneDrive\Desktop\QRPRINTER\pri...\print.txt
+     Location:
+     Print           winprint
+     Processor:
+     Comment:
+     OS              Windows x64
+     Environ...:
+     PRINT DRIVER PROPERTIES
+     Driver          Generic / Text Only
+     Name:
+     Driver          Type 3 - User Mode
+     Type:
+     Driver          10.0.26100.6725
+     Version:
+     ADDITIONAL PRINT DRIVER FILES
+      C:\WINDOWS\system32\spool\DRIVERS\x64\3\TTYRES.DLL
+      C:\WINDOWS\system32\spool\DRIVERS\x64\3\TTY.INI
+      C:\WINDOWS\system32\spool\DRIVERS\x64\3\TTY.DLL
+      C:\WINDOWS\system32\spool\DRIVERS\x64\3\TTYUI.DLL
+      C:\WINDOWS\system32\spool\DRIVERS\x64\3\TTYUI.HLP
+      C:\WINDOWS\system32\spool\DRIVERS\x64\3\UNIRES.DLL
+      C:\WINDOWS\system32\spool\DRIVERS\x64\3\STDNAMES.GPD
+      C:\WINDOWS\system32\spool\DRIVERS\x64\3\STDDTYPE.GDL
+      C:\WINDOWS\system32\spool\DRIVERS\x64\3\STDSCHEM.GDL
+      C:\WINDOWS\system32\spool\DRIVERS\x64\3\STDSCHMX.GDL
